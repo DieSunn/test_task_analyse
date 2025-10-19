@@ -4,7 +4,7 @@ Cкрипт для формирования отчёта average-rating по CSV
 
 Запуск:
 1) Установите зависимость для красивого вывода (опционально):
-   pip install tabulate
+   pip install tabulate pytest
 
 2) Пример:
    python main.py --files samples/a.csv samples/b.csv --report average-rating
